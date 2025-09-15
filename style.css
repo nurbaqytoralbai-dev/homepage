@@ -1,0 +1,114 @@
+.top1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.top {
+  display: flex;
+}
+.w {
+  font-size: 100px;
+}
+.mainimg {
+  height: 400px;
+}
+.h1 {
+  font-size: 70px;
+}
+.para {
+  color: darkgray;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+}
+.many {
+  display: flex;
+}
+.par {
+  margin-left: 150px;
+  margin-top: 30px;
+  font-size: 27px;
+}
+.but {
+  font-size: 30px;
+  padding: 15px;
+  border: none;
+  background-color: #f15d51;
+  color: #00001a;
+  cursor: pointer;
+}
+.allmid {
+  display: flex;
+}
+.h2 {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #e8a852;
+}
+.mid {
+  text-align: center;
+  color: white;
+}
+.middle {
+  margin-left: 60px;
+  background-color: #00001a;
+  height: 500px;
+  padding: 20px;
+}
+.bottom {
+  display: flex;
+}
+.div1 {
+  display: flex;
+}
+.div2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.pc {
+  height: 230px;
+}
+.bottom2 {
+  display: flex;
+}
+.bot2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.key {
+  height: 230px;
+}
+.bottom3 {
+  display: flex;
+}
+.bott3 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.game {
+  height: 230px;
+}
+.allbot {
+  display: flex;
+  justify-content: space-between;
+}
+.both4 {
+  font-size: 30px;
+  height: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.both2 {
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.both1 {
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
